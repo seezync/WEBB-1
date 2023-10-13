@@ -1,0 +1,28 @@
+.grid{
+    display: grid;
+    grid-template-columns: 15% auto;
+    gap: 0.5rem;
+}
+
+.grid > * {
+    border: 2px solid black;
+    border-radius: 0.25rem;
+}
+
+aside{
+    border-style: none !important;
+}
+
+article{
+    margin: 0.325rem;
+    border: 2px solid black;
+    border-radius: 0.25rem;
+}
+
+img{
+    width: 100%;
+}
+
+h1, h2, h3, footer p{
+    text-align: center;
+}
