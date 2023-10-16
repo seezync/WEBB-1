@@ -6,7 +6,7 @@
 
 .grid > * {
     border: 2px solid black;
-    border-radius: 0.25rem;
+    border-radius: 4px;
 }
 
 aside{
@@ -14,9 +14,9 @@ aside{
 }
 
 article{
-    margin: 0.325rem;
+    margin: 5px;
     border: 2px solid black;
-    border-radius: 0.25rem;
+    border-radius: 4px;
 }
 
 img{
